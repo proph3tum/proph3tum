@@ -4,8 +4,12 @@
 🌱 I’m currently learning : **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
 
-<p align="center">
-📫 How to reach me :<p align="center"> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
+
+<p align="center"> 
+ <a href="https://t.me/proph3tum"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
+ <br>
+ <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum">
 </p>
 
 ---
@@ -17,14 +21,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
+<p align="left"> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=proph3tum&theme=light)](https://git.io/streak-stats)
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
-
+<img src="https://metrics.lecoq.io/proph3tum" />
