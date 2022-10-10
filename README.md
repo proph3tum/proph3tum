@@ -20,9 +20,10 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum&show_icons=true&locale=en" alt="proph3tum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proph3tum" alt="proph3tum" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=proph3tum&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
+
