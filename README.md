@@ -20,7 +20,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=proph3tum&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
