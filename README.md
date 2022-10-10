@@ -6,6 +6,9 @@
 
 - 📫 How to reach me :<p> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a></p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -20,8 +23,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proph3tum" alt="proph3tum" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proph3tum" alt="proph3tum" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum&show_icons=true&locale=en" alt="proph3tum" /></p>
