@@ -4,14 +4,15 @@
 🌱 I’m currently learning : **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
 
-📫 How to reach me :<p> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a></p>
+<p align="center">
+📫 How to reach me :<p align="center"> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
+</p>
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proph3tum" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proph3tum" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14960579/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proph3tum" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proph3tum" height="30" width="40" /></a>
 </p>
 
@@ -23,6 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=proph3tum&theme=light)](https://git.io/streak-stats)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
 
