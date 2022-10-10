@@ -4,7 +4,9 @@
 🌱 I’m currently learning  **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
 
+<br>
 
+<h4 align="center"> How to reach me :</h4>
 <p align="center"> 
  <a href="https://t.me/proph3tum"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
