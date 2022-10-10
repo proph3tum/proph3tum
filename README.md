@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm proph3tum</h1>
 <h4 align="center">My real name is Nikita, I'm from Russia</h4>
 
-🌱 I’m currently learning : **C#**  
+🌱 I’m currently learning : **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
 
 📫 How to reach me :<p> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a></p>
 
-***
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proph3tum" alt="proph3tum" /></p>
 
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=proph3tum&theme=light)](https://git.io/streak-stats)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum" /> </p>
 
