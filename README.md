@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm proph3tum</h1>
-<h3 align="center">My real name is Nikita, I'm from Russia</h3>
+<h4 align="center">My real name is Nikita, I'm from Russia</h4>
 
-- 🌱 I’m currently learning : **C#**
-- ⚡ Fun fact : **I like to play video games... Really like**
+🌱 I’m currently learning : **C#**  
+⚡ Fun fact : **I like to play video games... Really like**
 
-- 📫 How to reach me :<p> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a></p>
+- 📫 How to reach me :<p> <a href="https://t.me/proph3tum" target="blank"><img alt="Telegram URL" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a> <a href=mailto:proph3tum@gmail.com><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a></p>
 
 ---
 
