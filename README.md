@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm proph3tum</h1>
-<h4 align="center">My real name is Nikita, I'm from Russia</h4>
+<h4 align="center">My real name is Nikita and I'm from Russia</h4>
 
 🌱 I’m currently learning : **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
@@ -11,8 +11,6 @@
  <br>
  <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum">
 </p>
-
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
