@@ -7,7 +7,7 @@
 <h4 align="center"> How to reach me :</h4>
 <p align="center"> 
  <a href="https://t.me/proph3tum"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white"  alt="Telegram"/></a>
- <a href=mailto:proph3tum@gmail.com><img  alt="GMail" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
+ <a href=mailto:proph3tum@gmail.com><img  alt="Gmail" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Ft.me%2Fproph3tum"></a>
  <br>
  <img src="https://komarev.com/ghpvc/?username=proph3tum&label=Profile%20views&color=0e75b6&style=flat" alt="proph3tum">
 </p>
