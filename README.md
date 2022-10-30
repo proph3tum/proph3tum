@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proph3tum" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14960579/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proph3tum" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proph3tum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proph3tum_linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="proph3tum_twitter" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/14960579/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proph3tum_stackoverflow" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/proph3tum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proph3tum_leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
