@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm proph3tum</h1>
-<h4 align="center">My real name is Nikita and I'm from Russia</h4>
+<h4 align="center">My real name is Ksenya and I'm from Russia, Tomsk</h4>
 
 🌱 I’m currently learning  **C# and .NET**  
 ⚡ Fun fact : **I like to play video games... Really like**
