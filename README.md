@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm proph3tum</h1>
 <h4 align="center">My real name is Nikita and I'm from Russia, Tomsk</h4>
 
-🌱 I’m currently learning  **C# and .NET**  
+🌱 I’m currently learning  **Kotlin and Android development**  
 ⚡ Fun fact : **I like to play video games... Really like**
 
 <h4 align="center"> How to reach me :</h4>
